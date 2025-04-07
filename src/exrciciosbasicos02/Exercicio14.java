@@ -19,6 +19,7 @@ public class Exercicio14 {
 		Scanner scan = new Scanner(System.in);
 		int hora;
 		String resposta;
+//		oi
 		
 		do {
 			
