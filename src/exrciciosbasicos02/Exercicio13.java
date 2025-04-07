@@ -5,7 +5,8 @@ import java.util.Scanner;
 public class Exercicio13 {
 	public static void main(String[] args) {
 		
-	/*	13 Escreva um programa que leia um ano e diga se ele é bissexto ou não. Um ano é bissexto se ele 	for divisível por 4, exceto se ele for divisível por 100 e não por 400. 
+	/*	13 Escreva um programa que leia um ano e diga se ele é bissexto ou não. Um ano é bissexto se ele 
+ 		for divisível por 4, exceto se ele for divisível por 100 e não por 400. 
 
 			1. se o ano for divisivel por 4 ele é bissexto
 			2. se o ano for divisivel por 100 e nao for divisivel por 400 entao ele não é bissexto
